@@ -1,34 +1,34 @@
-# 🚀 Nombre del Proyecto  
+ 🚀 Título del Proyecto
 
-Breve descripción del proyecto (1-2 líneas).  
+Una breve introducción al proyecto (1-2 líneas).
 
-## 📌 Características Principales  
+ 📌 Funcionalidades Clave
 
-- Característica 1  
-- Característica 2  
-- Característica 3  
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
 
-## 🛠️ Tecnologías Usadas  
+🛠️ Tecnologías Empleadas
 
-- **Backend**: Java, Spring Boot  
-- **Base de datos**: MySQL  
-- **Frontend**: (Si aplica, ej: HTML/CSS/JS o framework frontend)  
-- **Gestión de dependencias**: Maven  
-- **Otras herramientas**: (Opcional)  
+- **Backend**: Java, Spring Boot
+- **Base de datos**: MySQL
+- **Frontend**: (Si corresponde, por ejemplo: HTML/CSS/JS o un framework de frontend)
+- **Gestión de dependencias**: Maven
+- **Otras herramientas**: (Opcional)
 
-## 📋 Requisitos Previos  
+ 📋 Requisitos Previos
 
-Antes de ejecutar el proyecto, asegúrate de tener instalado:  
+Antes de iniciar el proyecto, asegúrate de tener instalados los siguientes componentes:
 
-- Java JDK 11+  
-- MySQL 8.0+  
-- Maven 3.6+  
-- (Cualquier otra dependencia necesaria)  
+- Java JDK 11 o superior
+- MySQL 8.0 o superior
+- Maven 3.6 o superior
+- (Cualquier otra dependencia necesaria)
 
-## ⚙️ Configuración  
+ ⚙️ Configuración
 
-### 🔧 Base de Datos (MySQL)  
+ 🔧 Base de Datos (MySQL)
 
-1. Crea una base de datos en MySQL:  
-   ```sql
+1. Crea una nueva base de datos en MySQL:
+  sql
    CREATE DATABASE nombre_bd;
